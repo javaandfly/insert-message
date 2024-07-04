@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">insert-message</string>
+    <string name="insert">insert</string>
+    <string name="_0_1">0已看1未看</string>
+    <string name="_1_2_3">通话类型 1呼入 2呼出 3未接</string>
+    <string name="number">number</string>
+    <string name="call_time">call time</string>
+    <string name="enter_text">Enter text</string>
+    <string name="enter_number">enter number</string>
+    <string name="add_number">add number</string>
+    <string name="phone_numbers">phone numbers</string>
+    <string name="enter_string">Enter string</string>
+</resources>
